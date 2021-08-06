@@ -17,6 +17,10 @@ Education
 
 Employment
 ======
+* 2021: Tutor
+  * Geocomputation Masters course
+  * Taught spatial analysis in R
+
 * 2019-2020: Sales Assistant
   * Cotswold Outdoor Covent Garden, London
   * Duties included: Persuading people to cut the handle off their toothbrushes to make their hikes more enjoyable
@@ -41,17 +45,5 @@ Volunteering
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
