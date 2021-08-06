@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Blank template"
 collection: publications
 permalink: /publication/2021-08-01-testpaper
 excerpt: 'Blank template.'
