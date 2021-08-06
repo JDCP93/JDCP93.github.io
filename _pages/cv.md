@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Mathematics, Pembroke College, University of Oxford, UK, 2011-2014
+* MSc in Hydrology and Water Resources Management, Imperial College London, UK, 2018-2019
+* PhD in Climate Science, University of New South Wales, Australia, 2020-ongoing
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Sales Assistant
+  * Cotswold Outdoor Covent Garden, London
+  * Duties included: Persuading people to cut the handle off their toothbrushes to make their hikes more enjoyable
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2016-2018: Sales Coordinator
+  * Palm Paper, King's Lynn
+  * Duties included: Selling cardboard to fund my Masters
+
+* 2014-2016: Engineering Support Team Leader
+  * Content Guru, Bracknell
+  * Duties included: Fixing the cloud to fund my hiking
+
+Volunteering
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2019: Zoological Society of London (ZSL)
+  * Counting endangered eels as part of ZSL's citizen science scheme
+
+* 2016-2018: Norfolk Conservation Corps
+  * Cutting down trees to save other trees (and toads)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
