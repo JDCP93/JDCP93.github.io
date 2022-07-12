@@ -1,6 +1,6 @@
 ---
 title: "Thailand - Oct 2019"
-excerpt: "View from the tent<br/><img src='/images/20191009_081755.jpg'>"
+excerpt: "View From The Tent<br/><img src='/images/20191009_081755.jpg'>"
 collection: portfolio
 ---
 
