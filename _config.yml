@@ -10,7 +10,7 @@ locale                   : "en-AU"
 title                    : "Jon Cranko Page"
 title_separator          : "-"
 name                     : &name "Jon Cranko Page"
-description              : &description "PhD Student at UNSW"
+description              : &description "PhD Student at CCRC, UNSW"
 url                      : https://JDCP93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JDCP93/JDCP93.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "meFeb20.jpg"
   bio              : "PhD student exploring the role of memory in terrestrial ecosystem fluxes"
   location         : "Sydney"
-  employer         : "Climate Change Research Centre, UNSW"
+  employer         : "CCRC, UNSW"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/orcid=0000-0003-2150-6185"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
