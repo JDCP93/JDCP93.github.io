@@ -1,5 +1,5 @@
 ---
-title: "Mt. Kosciuszko - Oct 2020"
+title: "Mt. Kosciuszko - Feb 2021"
 excerpt: "On Top of the (Aussie) World<br/><img src='/images/20210221_120218.jpg'>"
 collection: portfolio
 ---
