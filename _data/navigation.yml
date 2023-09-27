@@ -10,3 +10,6 @@ main:
 
   - title: "Pictures"
     url: /portfolio/
+
+  - title: "Posts"
+    url: /posts/

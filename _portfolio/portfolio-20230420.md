@@ -1,6 +1,6 @@
 ---
 title: "Zion National Park - April 2023"
-excerpt: "Back down the valley<br/><img src='/images/PXL_20230420_193721697.jpg'>"
+excerpt: "Back Down The Valley<br/><img src='/images/PXL_20230420_193721697.jpg'>"
 collection: portfolio
 ---
 
