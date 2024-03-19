@@ -1,6 +1,6 @@
 ---
 title: "Twelve Apostles - March 2024"
-excerpt: "1, 2, skip a few, 12.<br/><img src='/images/PXL_20240312_032828391.LONG_EXPOSURE-01.COVER.jpg'>"
+excerpt: "1 2  ... skip a few ... 12? <br/><img src='/images/PXL_20240312_032828391.LONG_EXPOSURE-01.COVER.jpg'>"
 collection: portfolio
 ---
 
