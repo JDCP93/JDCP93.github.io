@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## For the world is changing: I feel it in the water, I feel it in the earth, and I smell it in the air. - J. R. R. Tolkien
 
 <img src='/images/20160531_062229.jpg'>
 
 Studying the role of memory and legacy effects on vegetation and terrestrial ecosystem fluxes.
 
 Either at my computer or on my bike. Or down the pub.
+
+## For the world is changing: I feel it in the water, I feel it in the earth, and I smell it in the air. - J. R. R. Tolkien

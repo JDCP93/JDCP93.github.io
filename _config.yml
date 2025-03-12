@@ -10,7 +10,7 @@ locale                   : "en-AU"
 title                    : "Jon Cranko Page"
 title_separator          : "-"
 name                     : &name "Jon Cranko Page"
-description              : &description "Postdoc at CCRC, UNSW"
+description              : &description "Postdoc at Uni of Oulu"
 url                      : https://JDCP93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JDCP93/JDCP93.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jon Cranko Page"
   avatar           : "meOct23bw.jpg"
-  bio              : "Postdoc exploring the predictability of terrestrial ecosystem fluxes"
-  location         : "Sydney"
-  employer         : "CCRC, UNSW"
+  bio              : "Postdoc exploring the changing hydrology of the Arctic"
+  location         : 
+  employer         : "Uni of Oulu, Finland"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=yEtrmdMAAAAJ"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Helsinki # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
