@@ -8,8 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Pictures"
-    url: /portfolio/
+#  - title: "Pictures"
+#    url: /portfolio/
+
+  - title: "Gallery"
+    url: /gallery/
 
 #  - title: "Posts"
 #    url: /year-archive/
